@@ -21,6 +21,7 @@ margin-left: 25%;
 
 }
  ul {
+    display:inline-block;
     color: #bd0792;
     font-size: 20px;  
  }
