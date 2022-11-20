@@ -23,12 +23,10 @@ vertical-align: top;}
 .lista{
    color: #bd0792;
    font-size: 20px;
-
 }
 
 .nordenada{
-   list-style-type: square;
-   list-style-position: inside;
+   list-style-image: url(logo.png)
 }
 
 .ordenada{
