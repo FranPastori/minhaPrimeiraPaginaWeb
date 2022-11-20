@@ -25,3 +25,11 @@ vertical-align: top;}
    font-size: 20px;
 
 }
+
+.nordenada{
+   list-style-type: square;
+}
+
+.ordenada{
+   list-style-type: upper-roman;
+}
