@@ -18,23 +18,10 @@ width: 390px;
 height: 390px;
 padding: 20px;
 margin-left: 25%; 
-vertical-align: top;
+vertical-align: top;}
+
+.lista{
+   color: #bd0792;
+   font-size: 20px;
 
 }
- ul {
-
-    color: #bd0792;
-    font-size: 20px;  
- }
-
- .imagemprincipal {
-    display:inline-block;
-    width: 390px;
-    height: 390px;
-    margin: 60px;
-    vertical-align: top;
-
- }
- .titulodalista {
-    display: inline-block;
- }
