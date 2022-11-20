@@ -26,7 +26,8 @@ vertical-align: top;}
 }
 
 .nordenada{
-   list-style-image: url(logo.png)
+   list-style-type: none;
+
 }
 
 .ordenada{
